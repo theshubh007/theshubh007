@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @theshubh007 Shubham Kothiya
 - 👀 I’m interested in competitive programming
-- 🌱 I’m currently learning flutter,Nodejs,Backend framworks.
+- 🌱 Flutter, Nodejs, Springboot, Docker, Aws.
 - My Applications on playstore:
    1.https://play.google.com/store/apps/details?id=com.shubh.Docoheal
    2.https://play.google.com/store/apps/details?id=com.shubh.codingzone
