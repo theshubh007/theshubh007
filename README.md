@@ -1,16 +1,12 @@
-<!-- - 👋 Hi, I’m @theshubh007 Shubham Kothiya
+<!--  - 👋 Hi, I’m @theshubh007 Shubham Kothiya
 - 👀 I’m interested in competitive programming
 - 🌱 Flutter, Nodejs, Springboot, Docker, Aws.
 - My Applications on playstore:
    1.https://play.google.com/store/apps/details?id=com.shubh.Docoheal
    2.https://play.google.com/store/apps/details?id=com.shubh.codingzone
 - 📫 How to reach me :https://www.linkedin.com/in/shubham-kothiya-7999451b9/
+ -->
 
-<!---
-theshubh007/theshubh007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-<!--  --> -->
  
  <article class="markdown-body entry-content container-lg f5" itemprop="text"><h1 align="center" dir="auto"><a id="user-content-hi--im-abhishek-bhatt" class="anchor" aria-hidden="true" href="#hi--im-abhishek-bhatt"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>Hey there <g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji>, I'm Shubham Kothiya</h1>
 <h3 align="center" dir="auto"><a id="user-content-self-motivated-quick-learner-and-tech-savvy-professional-who-believes-in-upgrading-skills-and-knowledge-levels-as-continuous-process-to-handle-new-technologies" class="anchor" aria-hidden="true" href="#self-motivated-quick-learner-and-tech-savvy-professional-who-believes-in-upgrading-skills-and-knowledge-levels-as-continuous-process-to-handle-new-technologies"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>With a passion for creating innovative products and a commitment to staying at the forefront of change, I bring my A-game to every project, solving complex problems and crafting cutting-edge tech that transforms lives..</h3>
@@ -23,7 +19,7 @@ You can click the Preview link to take a look at your changes.
 <p dir="auto"><g-emoji class="g-emoji" alias="dancers" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f46f.png">👯</g-emoji> I’m looking to collaborate on <a href="https://play.google.com/store/apps/details?id=com.shubh.codingzone">CodingZone</a></p>
 </li>
 <li>
-<p dir="auto"><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">💬</g-emoji> Ask me about <strong>Flutter,SpringBoot,C++</strong></p>
+<p dir="auto"><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">💬</g-emoji> Ask me about <strong>Flutter,SpringBoot,C++,Docker, Aws</strong></p>
 </li>
 <!-- <li>
 <p dir="auto"><g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡</g-emoji> Fun fact <strong>Earth is not flat.</strong></p>
