@@ -16,7 +16,7 @@
 <p dir="auto"><g-emoji class="g-emoji" alias="telescope" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f52d.png">🔭</g-emoji> I’m currently working on Offers</p>
 </li>
 <li>
-<p dir="auto"><g-emoji class="g-emoji" alias="dancers" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f46f.png">👯</g-emoji> I’m looking to collaborate on <a href="https://play.google.com/store/apps/details?id=com.shubh.codingzone"><code>CodingZone<code></a>, <a href="https://play.google.com/store/apps/details?id=com.shubh.Docoheal"><code>DocoHeal<code></a></p>
+<p dir="auto"><g-emoji class="g-emoji" alias="dancers" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f46f.png">👯</g-emoji> I’m looking to collaborate on <a href="https://play.google.com/store/apps/details?id=com.shubh.codingzone">CodingZone</a>, <a href="https://play.google.com/store/apps/details?id=com.shubh.Docoheal">DocoHeal</a></p>
 </li>
 <li>
 <p dir="auto"><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">💬</g-emoji> Ask me about <strong>Flutter,SpringBoot,C++,Docker, Aws</strong></p>
