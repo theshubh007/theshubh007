@@ -30,8 +30,8 @@
 <p dir="auto"><themed-picture data-catalyst-inline="true"><picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/raw/main/Images/Right_Side.gif?raw=true" width="250px"></picture></themed-picture></p>
 <p dir="auto"><br><br></p>
 <ul dir="auto">
-<li><g-emoji class="g-emoji" alias="school" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3eb.png">🏫</g-emoji> I am a <code>Student</code> 3rd year B.tech CE undergrad.</li>
-<li><g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji>I am Lead of Google developer Student Club -PPSU Community</li>
+<li><g-emoji class="g-emoji" alias="school" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3eb.png">🏫</g-emoji> I am a <code>Student</code> 4th year B.tech CE undergrad.</li>
+<li><g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji>I am Lead of Google developer Student Club -PPSU Community 2022-2023</li>
 <!-- <li><g-emoji class="g-emoji" alias="technologist" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f9d1-1f4bb.png">🧑‍💻</g-emoji> I love open-source contribution.</li> -->
 <li><g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji> I am a competitive programmer at <a href="https://www.codechef.com/users/kingshubh_07"><code>Codechef</code></a>,<a href="https://auth.geeksforgeeks.org/user/thekingshubh07/practice/" <code>GFG</code></a>, <a href="https://leetcode.com/shubhamkothiya007/"><code>Leetcode</code></a>.</li>
 <li><g-emoji class="g-emoji" alias="student" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f9d1-1f393.png">🧑‍🎓</g-emoji> I’m currently learning <code>SpringBoot</code>.</li>
