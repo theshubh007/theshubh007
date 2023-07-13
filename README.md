@@ -9,7 +9,8 @@
 
  <div align="center">
     
-<img src = "https://github.com/theshubh007/theshubh007/blob/main/gitartwork.svg">
+<!--<img src = "https://github.com/theshubh007/theshubh007/blob/main/gitartwork.svg"> -->
+<img src = "https://firebasestorage.googleapis.com/v0/b/jarvis-b322c.appspot.com/o/gitartwork.svg?alt=media&token=4c327e68-d71a-472b-b2d1-817c09bff0ef">
     
 </div>
 
