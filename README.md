@@ -71,11 +71,20 @@
 <!--     <a href="#"><img src="src/docker2.png" title = "Docker" width = "45px" height = "45px" /></a>  -->
     <a href="#"><img src="src/firebase2.png" title = "Firebase" width = "63px" height = "45px" /></a> 
     <a href="#"><img src="src/nodejs.png" title = "NodeJS" width="60px" height="65px" /></a> 
-    <a href="#"><img src="src/mongoDB.png" title = "MongoDB" width = "45px" height = "45px" /></a> 
-   
+    <a href="#"><img src="src/mongoDB.png" title = "MongoDB" width = "45px" height = "45px" /></a>  
     <a href="#"><img src="src/mysql.png" title = "MySQL" width = "45px" height = "45px" /></a>
     <a href="#"><img src="src/git.png" title = "Git" width = "45px" height = "45px" /></a>  
 </p>
+
+## 🌟 Online Coding Profiles:
+<p align="left">
+
+<a href = "https://leetcode.com/shubhamkothiya007/" target="_blank" title ="LeetCode Profile" ><img src="src/leetcode.png" width = "45px" height ="45px" target="_blank"/></a>
+<a href = "https://www.codechef.com/users/kingshubh_07" target="_blank" title ="CodeChef Profile" target="_blank"><img src="src/codechef.png" width = "100px" height ="45px" hspace=5 /></a>
+
+
+</p>
+<br>
 <!-- <p align="center" dir="auto">
 	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt="Quote" src="https://camo.githubusercontent.com/ea521e6b03bad991b1c5db43be8169ffb34dc10fba4c4bbf233356cc626f91b3/68747470733a2f2f71756f7465732d6769746875622d726561646d652e76657263656c2e6170702f6170693f747970653d686f72697a6f6e74616c267468656d653d746f6b796f6e6967687426616e696d6174696f6e3d67726f775f6f75745f696e2671756f746543617465676f72793d70726f6772616d6d696e67" data-canonical-src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=tokyonight&amp;animation=grow_out_in&amp;quoteCategory=programming" style="max-width: 100%;">
 </a></p> -->
