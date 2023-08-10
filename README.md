@@ -63,8 +63,7 @@
 	<a href="mailto:thekingshubh07@gmail.com"><img src="https://camo.githubusercontent.com/81f051ac648dd8648812d3218bf45ca54379011006582773097eaea84a4d989f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f676d61696c2d2532334541343333352e7376673f7374796c653d706c6173746963266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" alt="Gmail" data-canonical-src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&amp;logo=gmail&amp;logoColor=white" style="max-width: 100%;"></a>
 	<a href="https://github.com/theshubh007"><img src="https://camo.githubusercontent.com/46625ba568e8e4b14be5ab868d5b8822f065fb62b680ffd255756c2abcd8664e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769746875622d2532333138313731372e7376673f7374796c653d706c6173746963266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465" alt="GitHub" data-canonical-src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&amp;logo=github&amp;logoColor=white" style="max-width: 100%;"></a>
 	<a href="https://www.linkedin.com/in/shubham-kothiya-7999451b9/" rel="nofollow"><img src="https://camo.githubusercontent.com/4400abbd50578ca7acd3d2bfaebd008b6f5b978347af0e72c3910a6584a085f9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333041363643322e7376673f7374796c653d706c6173746963266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="LinkedIn" data-canonical-src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a>
-<!-- 	<a href="https://www.instagram.com/bwith_abhi/" rel="nofollow"><img src="https://camo.githubusercontent.com/2e97e4799be678e91e476c77c5e7a80fee118fb023e1911920e05c83ca03a616/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f696e7374616772616d2d2532334534343035462e7376673f7374796c653d706c6173746963266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465" alt="Instagram" data-canonical-src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&amp;logo=instagram&amp;logoColor=white" style="max-width: 100%;"></a> -->
-<!--   	<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/6c12f7130bd6ea0f52269fb63f1a84a256891f5e10638e6fe0d88c342d134aba/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f747769747465722d2532333041363643322e7376673f7374796c653d706c6173746963266c6f676f3d74776974746572266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/6c12f7130bd6ea0f52269fb63f1a84a256891f5e10638e6fe0d88c342d134aba/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f747769747465722d2532333041363643322e7376673f7374796c653d706c6173746963266c6f676f3d74776974746572266c6f676f436f6c6f723d7768697465" alt="Twitter" data-canonical-src="https://img.shields.io/badge/twitter-%230A66C2.svg?style=plastic&amp;logo=twitter&amp;logoColor=white" style="max-width: 100%;"></a> -->
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -94,9 +93,9 @@
 ## 🌟 Online Coding Profiles:
 <p align="left">
 
-<a href = "https://leetcode.com/shubhamkothiya007/" target="_blank" title ="LeetCode Profile" ><img src="src/leetcode.png" width = "45px" height ="45px" target="_blank"/></a>
-<a href = "https://www.codechef.com/users/kingshubh_07" target="_blank" title ="CodeChef Profile" target="_blank"><img src="src/codechef.png" width = "100px" height ="45px" hspace=5 /></a>
-<a href = "https://auth.geeksforgeeks.org/user/thekingshubh07/practice" target="_blank" title ="GFG Profile" target="_blank"><img src="src/gfg.png" width = "100px" height ="45px" hspace=5 /></a>
+<a href = "https://leetcode.com/shubhamkothiya007/" target="_blank" title ="LeetCode Profile" ><img src="https://firebasestorage.googleapis.com/v0/b/jarvis-b322c.appspot.com/o/leetcode.png?alt=media&token=93265f10-1a23-41e4-9a4d-26d3b28161eb" width = "45px" height ="45px" target="_blank"/></a>
+<a href = "https://www.codechef.com/users/kingshubh_07" target="_blank" title ="CodeChef Profile" target="_blank"><img src="https://firebasestorage.googleapis.com/v0/b/jarvis-b322c.appspot.com/o/codechef.png?alt=media&token=e4d664e7-16ae-46d4-add2-ff19510559a3" width = "100px" height ="45px" hspace=5 /></a>
+<a href = "https://auth.geeksforgeeks.org/user/thekingshubh07/practice" target="_blank" title ="GFG Profile" target="_blank"><img src="https://firebasestorage.googleapis.com/v0/b/jarvis-b322c.appspot.com/o/gfg.png?alt=media&token=c457bd9f-2ded-4a80-843e-3b0a595fbf8d" width = "100px" height ="45px" hspace=5 /></a>
 
 
 </p>
