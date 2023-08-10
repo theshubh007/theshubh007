@@ -65,6 +65,7 @@
     <a href="#"><img src="src/java.png" title = "Java" width = "55px" height = "55px" /></a>
     <a href="#"><img src="src/springboot.png" title = "Spring Boot" width = "65px" height = "50px" /></a> 
     <a href="#"><img src="src/flutter.png" title = "Flutter" width = "40px" height = "40px" /></a>
+    
     <a href="#"><img src="src/dart.png" title = "Dart" width = "65px" height = "55px" /></a> 
     <a href="#"><img src="src/aws2.png" title = "Tailwind CSS" width = "45px" height = "45px"/></a> 
     <a href="#"><img src="src/docker.png" title = "Docker" width = "65px" height = "45px" /></a> 
