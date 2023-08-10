@@ -36,8 +36,10 @@
 
 - 🌱 I’m currently learning **SpringBoot,Docker,Aws**
 
-- 👯 I’m looking to collaborate on [DocoHeal](https://play.google.com/store/apps/details?id=com.shubh.Docoheal)
-
+- 👯 I’m looking to collaborate on [DocoHeal](https://play.google.com/store/apps/details?id=com.shubh.Docoheal),
+  
+- 🤝 I’m looking for help with [Ether-VotingDApp](https://github.com/theshubh007/Ether-VotingDApp), [Equalista](https://github.com/theshubh007/Equalista),  [Codingzone-App](https://github.com/theshubh007/Codingzone-App),  [SavvyNurse](https://github.com/theshubh007/savvynurse), [Goose](https://github.com/theshubh007/goose)
+  
 - 💬 Ask me about **DSA,C++,Flutter**
 
 - 📫 How to reach me **shubhamkothiya007@gmail.com**
