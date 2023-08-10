@@ -64,7 +64,7 @@
 <!--     <a href="#"><img src="src/bootstrap.png" title = "Bootstrap" width = "50px" height = "45px" /></a>  -->
 <!--     <a href="#"><img src="src/tailwind.png" title = "Tailwind CSS" width = "45px" height = "45px"/></a>  -->
     <a href="#"><img src="src/docker.png" title = "Docker" width = "45px" height = "45px" /></a> 
-    <a href="#"><img src="src/firebase.png" title = "Firebase" width = "45px" height = "45px" /></a> 
+    <a href="#"><img src="src/firebase2.png" title = "Firebase" width = "45px" height = "45px" /></a> 
     <a href="#"><img src="src/nodejs.png" title = "NodeJS" width="60px" height="55px" /></a> 
     <a href="#"><img src="src/mongoDB.png" title = "MongoDB" width = "45px" height = "45px" /></a> 
     <a href="#"><img src="src/c++.jpg" title = "C++" width = "45px" height = "45px" /></a>
