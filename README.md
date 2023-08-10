@@ -65,7 +65,6 @@
     <a href="#"><img src="src/java.png" title = "Java" width = "55px" height = "55px" /></a>
     <a href="#"><img src="src/springboot.png" title = "Spring Boot" width = "65px" height = "50px" /></a> 
     <a href="#"><img src="src/flutter.png" title = "Flutter" width = "40px" height = "40px" /></a>
-    
     <a href="#"><img src="src/dart.png" title = "Dart" width = "65px" height = "55px" /></a> 
     <a href="#"><img src="src/aws2.png" title = "Tailwind CSS" width = "45px" height = "45px"/></a> 
     <a href="#"><img src="src/docker.png" title = "Docker" width = "65px" height = "45px" /></a> 
@@ -114,7 +113,7 @@
 </details> -->
 <details><summary> <h3 dir="auto"><a id="user-content--️-hactoberfest-badges-" class="anchor" aria-hidden="true" href="#-️-hactoberfest-badges-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a> <g-emoji class="g-emoji" alias="medal_military" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f396.png">🎖️</g-emoji> Hactoberfest badges </h3></summary>
 <hr>
-<p dir="auto"><a href="https://holopin.io/@theshubh007#badges" rel="nofollow"><img src="https://freeimage.host/i/screenshot-2023-07-10-214033.Hs1Eqbe" alt="@Shubham's's Holopin board" data-canonical-src="https://www.holopin.io/@theshubh007#badges" style="max-width: 100%;"></a></p>
+<p dir="auto"><a href="https://holopin.io/@theshubh007#badges" rel="nofollow"><img src="https://firebasestorage.googleapis.com/v0/b/jarvis-b322c.appspot.com/o/hacktoberfest.png?alt=media&token=56ca4d8a-5c6e-4603-bca4-e20a733b08e6" alt="@Shubham's's Holopin board" data-canonical-src="https://www.holopin.io/@theshubh007#badges" style="max-width: 100%;"></a></p>
 </details>
 <!-- <p dir="auto"><br><br></p>
 <h2 dir="auto"><a id="user-content--a-snake-eating-my-contributions-graph" class="anchor" aria-hidden="true" href="#-a-snake-eating-my-contributions-graph"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><g-emoji class="g-emoji" alias="snake" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f40d.png">🐍</g-emoji> A Snake Eating my Contributions Graph</h2>
