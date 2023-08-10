@@ -81,6 +81,7 @@
 
 <a href = "https://leetcode.com/shubhamkothiya007/" target="_blank" title ="LeetCode Profile" ><img src="src/leetcode.png" width = "45px" height ="45px" target="_blank"/></a>
 <a href = "https://www.codechef.com/users/kingshubh_07" target="_blank" title ="CodeChef Profile" target="_blank"><img src="src/codechef.png" width = "100px" height ="45px" hspace=5 /></a>
+<a href = "https://auth.geeksforgeeks.org/user/thekingshubh07/practice" target="_blank" title ="GFG Profile" target="_blank"><img src="src/gfg.png" width = "100px" height ="45px" hspace=5 /></a>
 
 
 </p>
