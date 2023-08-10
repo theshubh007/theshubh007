@@ -52,7 +52,7 @@
 <li><g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji>I am Lead of Google developer Student Club -PPSU Community 2022-2023</li>
 <!-- <li><g-emoji class="g-emoji" alias="technologist" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f9d1-1f4bb.png">🧑‍💻</g-emoji> I love open-source contribution.</li> -->
 <li><g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji> I am a competitive programmer at <a href="https://www.codechef.com/users/kingshubh_07"><code>Codechef</code></a>,<a href="https://auth.geeksforgeeks.org/user/thekingshubh07/practice/" <code>GFG</code></a>, <a href="https://leetcode.com/shubhamkothiya007/"><code>Leetcode</code></a>.</li>
-<li><g-emoji class="g-emoji" alias="student" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f9d1-1f393.png">🧑‍🎓</g-emoji> I’m currently learning <code>SpringBoot</code>.</li>
+
 <li><g-emoji class="g-emoji" alias="nerd_face" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f913.png">🤓</g-emoji>  Forever, a learner...</code>.</li>
 
 </ul>
@@ -85,7 +85,7 @@
 <!-- <h2 dir="auto">
 	<a id="user-content-️-my-skills" class="anchor" aria-hidden="true" href="#️-my-skills"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><g-emoji class="g-emoji" alias="hammer_and_wrench" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6e0.png">🛠️</g-emoji> My Skills</h2> -->
 
-<p align="left"> 
+<!--<p align="left"> 
     <a href="#"><img src="src/c++.jpg" title = "C++" width = "45px" height = "45px" /></a>
     <a href="#"><img src="src/C.jpg"  title = "C" width = "45px" height = "45px" /></a>
     <a href="#"><img src="src/python.png" title = "Python" width = "45px" height = "45px" /></a> 
@@ -96,12 +96,12 @@
     <a href="#"><img src="src/aws2.png" title = "Tailwind CSS" width = "45px" height = "45px"/></a> 
     <a href="#"><img src="src/docker.png" title = "Docker" width = "65px" height = "45px" /></a> 
 <!--     <a href="#"><img src="src/docker2.png" title = "Docker" width = "45px" height = "45px" /></a>  -->
-    <a href="#"><img src="src/firebase2.png" title = "Firebase" width = "63px" height = "45px" /></a> 
+<!--    <a href="#"><img src="src/firebase2.png" title = "Firebase" width = "63px" height = "45px" /></a> 
     <a href="#"><img src="src/nodejs.png" title = "NodeJS" width="60px" height="65px" /></a> 
     <a href="#"><img src="src/mongoDB.png" title = "MongoDB" width = "45px" height = "45px" /></a>  
     <a href="#"><img src="src/mysql.png" title = "MySQL" width = "45px" height = "45px" /></a>
     <a href="#"><img src="src/git.png" title = "Git" width = "45px" height = "45px" /></a>  
-</p>
+</p>-->
 
 ## 🌟 Online Coding Profiles:
 <p align="left">
