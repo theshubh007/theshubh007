@@ -42,7 +42,7 @@
 <li><g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji> I am a competitive programmer at <a href="https://www.codechef.com/users/kingshubh_07"><code>Codechef</code></a>,<a href="https://auth.geeksforgeeks.org/user/thekingshubh07/practice/" <code>GFG</code></a>, <a href="https://leetcode.com/shubhamkothiya007/"><code>Leetcode</code></a>.</li>
 <li><g-emoji class="g-emoji" alias="student" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f9d1-1f393.png">🧑‍🎓</g-emoji> I’m currently learning <code>SpringBoot</code>.</li>
 <li><g-emoji class="g-emoji" alias="nerd_face" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f913.png">🤓</g-emoji>  Forever, a learner...</code>.</li>
-<!-- <li><g-emoji class="g-emoji" alias="thinking" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f914.png">🤔</g-emoji> You can find me on <a href="https://www.linkedin.com/in/shubham-kothiya-7999451b9/" rel="nofollow"><code>Linkdin<code></a>.</li> -->
+
 </ul>
 <br>
 <hr>
@@ -116,6 +116,10 @@
 <hr>
 <p dir="auto"><a href="https://holopin.io/@theshubh007#badges" rel="nofollow"><img src="https://firebasestorage.googleapis.com/v0/b/jarvis-b322c.appspot.com/o/hacktoberfest.png?alt=media&token=56ca4d8a-5c6e-4603-bca4-e20a733b08e6" alt="@Shubham's's Holopin board" data-canonical-src="https://www.holopin.io/@theshubh007#badges" style="max-width: 100%;"></a></p>
 </details>
+
+
+## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
+
 <!-- <p dir="auto"><br><br></p>
 <h2 dir="auto"><a id="user-content--a-snake-eating-my-contributions-graph" class="anchor" aria-hidden="true" href="#-a-snake-eating-my-contributions-graph"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><g-emoji class="g-emoji" alias="snake" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f40d.png">🐍</g-emoji> A Snake Eating my Contributions Graph</h2>
 <p align="center" dir="auto">
