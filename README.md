@@ -1,9 +1,11 @@
 <!--  - 👋 Hi, I’m @theshubh007 Shubham Kothiya
-- 👀 I’m interested in competitive programming
-- 🌱 Flutter, Nodejs, Springboot, Docker, Aws.
+- 👀 I’m interested in AI/ML
+- 🌱 LangChain, DataScience, Flask ,Flutter, Nodejs, Springboot, Docker, Aws.
 - My Applications on playstore:
    1.https://play.google.com/store/apps/details?id=com.shubh.Docoheal
    2.https://play.google.com/store/apps/details?id=com.shubh.codingzone
+- My VsCode Extension:
+     https://marketplace.visualstudio.com/items?itemName=ShubhamKothiya.Wise-Analyst 
 - 📫 How to reach me :https://www.linkedin.com/in/shubham-kothiya-7999451b9/
  -->
 
@@ -16,31 +18,18 @@
 
  <article class="markdown-body entry-content container-lg f5" itemprop="text"><h1 align="center" dir="auto"><a id="user-content-hi--im-abhishek-bhatt" class="anchor" aria-hidden="true" href="#hi--im-abhishek-bhatt"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>Hey there <g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji>, I'm Shubham Kothiya</h1>
 <h3 align="center" dir="auto"><a id="user-content-self-motivated-quick-learner-and-tech-savvy-professional-who-believes-in-upgrading-skills-and-knowledge-levels-as-continuous-process-to-handle-new-technologies" class="anchor" aria-hidden="true" href="#self-motivated-quick-learner-and-tech-savvy-professional-who-believes-in-upgrading-skills-and-knowledge-levels-as-continuous-process-to-handle-new-technologies"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>With a passion for creating innovative products and a commitment to staying at the forefront of change, I bring my A-game to every project, solving complex problems and crafting cutting-edge tech that transforms lives..</h3>
-<!-- <p align="left" dir="auto"> <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/83bf537d02373e706902479ab1c836aaa825388434800069e0c68beaa1d8494e/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d626861747461626869303133266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174"><img src="https://camo.githubusercontent.com/83bf537d02373e706902479ab1c836aaa825388434800069e0c68beaa1d8494e/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d626861747461626869303133266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174" alt="bhattabhi013" data-canonical-src="https://komarev.com/ghpvc/?username=bhattabhi013&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" style="max-width: 100%;"></a> </p>-->
-<!-- <ul dir="auto"> 
-<li>
-<p dir="auto"><g-emoji class="g-emoji" alias="telescope" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f52d.png">🔭</g-emoji> I’m currently working on Roamify</p>
-</li>
-<li>
-<p dir="auto"><g-emoji class="g-emoji" alias="dancers" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f46f.png">👯</g-emoji> I’m looking to collaborate on <a href="https://play.google.com/store/apps/details?id=com.shubh.codingzone">CodingZone</a>, <a href="https://play.google.com/store/apps/details?id=com.shubh.Docoheal">DocoHeal</a></p>
-</li>
-<li>
-<p dir="auto"><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">💬</g-emoji> Ask me about <strong>Flutter, SpringBoot, C++, Docker, Aws</strong></p>
-</li>
-<!-- <li>
-<p dir="auto"><g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡</g-emoji> Fun fact <strong>Earth is not flat.</strong></p>
-</li> -->
-<!-- </ul> --> 
+
 
 - 🔭 Checkout [Roamify](https://play.google.com/store/apps/details?id=com.shubh.Roamify)  [WiseAnalyst](https://github.com/theshubh007/wise-analyst)
 
-- 🌱 I’m currently learning **SpringBoot,Docker,Aws**
+- 🌱 I’m currently learning **GenAI, ML, NLP ,Docker,Aws**
 
-- 👯 I’m looking to collaborate on [DocoHeal](https://play.google.com/store/apps/details?id=com.shubh.Docoheal),
+- 👯  My VScode Extension:
+       [wise-analyst](https://marketplace.visualstudio.com/items?itemName=ShubhamKothiya.Wise-Analyst)
   
-- 🤝 I’m looking for help with [Ether-VotingDApp](https://github.com/theshubh007/Ether-VotingDApp), [Equalista](https://github.com/theshubh007/Equalista),  [Codingzone-App](https://github.com/theshubh007/Codingzone-App),  [SavvyNurse](https://github.com/theshubh007/savvynurse), [Goose](https://github.com/theshubh007/goose)
+- 🤝 I’m looking for help with [RetailQueryGen-AI](https://github.com/theshubh007/RetailQueryGen-AI) [Article_Research_Tool](https://github.com/theshubh007/Article_Research_Tool_Based_on_OpenSouceLLMs) [Ether-VotingDApp](https://github.com/theshubh007/Ether-VotingDApp), [Equalista](https://github.com/theshubh007/Equalista),  [Codingzone-App](https://github.com/theshubh007/Codingzone-App),  [SavvyNurse](https://github.com/theshubh007/savvynurse), 
   
-- 💬 Ask me about **DSA,C++,Flutter**
+- 💬 Ask me about **Langchain, Python, Flask, DSA,C++,Flutter**
 
 - 📫 How to reach me **shubhamkothiya007@gmail.com**
 
@@ -50,8 +39,8 @@
 <p dir="auto"><themed-picture data-catalyst-inline="true"><picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/raw/main/Images/Right_Side.gif?raw=true" width="250px"></picture></themed-picture></p>
 <p dir="auto"><br><br></p>
 <ul dir="auto">
-<li><g-emoji class="g-emoji" alias="school" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3eb.png">🏫</g-emoji> I am a <code>Student</code> 4th year B.tech CE undergrad.</li>
-<li><g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji>I am Lead of Google developer Student Club -PPSU Community 2022-2023</li>
+<li><g-emoji class="g-emoji" alias="school" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3eb.png">🏫</g-emoji> I am a <code>Student</code> 1st year MSSE(DataScience) at SanJose State University .</li>
+<li><g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji>I was Lead of Google developer Student Club -PPSU Community 2022-2023</li>
 <!-- <li><g-emoji class="g-emoji" alias="technologist" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f9d1-1f4bb.png">🧑‍💻</g-emoji> I love open-source contribution.</li> -->
 <li><g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji> I am a competitive programmer at <a href="https://www.codechef.com/users/kingshubh_07"><code>Codechef</code></a>,<a href="https://auth.geeksforgeeks.org/user/thekingshubh07/practice/" <code>GFG</code></a>, <a href="https://leetcode.com/shubhamkothiya007/"><code>Leetcode</code></a>.</li>
 
@@ -84,26 +73,8 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 </p>
 <hr>
-<!-- <h2 dir="auto">
-	<a id="user-content-️-my-skills" class="anchor" aria-hidden="true" href="#️-my-skills"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><g-emoji class="g-emoji" alias="hammer_and_wrench" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6e0.png">🛠️</g-emoji> My Skills</h2> -->
 
-<!--<p align="left"> 
-    <a href="#"><img src="src/c++.jpg" title = "C++" width = "45px" height = "45px" /></a>
-    <a href="#"><img src="src/C.jpg"  title = "C" width = "45px" height = "45px" /></a>
-    <a href="#"><img src="src/python.png" title = "Python" width = "45px" height = "45px" /></a> 
-    <a href="#"><img src="src/java.png" title = "Java" width = "55px" height = "55px" /></a>
-    <a href="#"><img src="src/springboot.png" title = "Spring Boot" width = "65px" height = "50px" /></a> 
-    <a href="#"><img src="src/flutter.png" title = "Flutter" width = "40px" height = "40px" /></a>
-    <a href="#"><img src="src/dart.png" title = "Dart" width = "65px" height = "55px" /></a> 
-    <a href="#"><img src="src/aws2.png" title = "Tailwind CSS" width = "45px" height = "45px"/></a> 
-    <a href="#"><img src="src/docker.png" title = "Docker" width = "65px" height = "45px" /></a> 
-<!--     <a href="#"><img src="src/docker2.png" title = "Docker" width = "45px" height = "45px" /></a>  -->
-<!--    <a href="#"><img src="src/firebase2.png" title = "Firebase" width = "63px" height = "45px" /></a> 
-    <a href="#"><img src="src/nodejs.png" title = "NodeJS" width="60px" height="65px" /></a> 
-    <a href="#"><img src="src/mongoDB.png" title = "MongoDB" width = "45px" height = "45px" /></a>  
-    <a href="#"><img src="src/mysql.png" title = "MySQL" width = "45px" height = "45px" /></a>
-    <a href="#"><img src="src/git.png" title = "Git" width = "45px" height = "45px" /></a>  
-</p>-->
+
 
 ## 🌟 Online Coding Profiles:
 <p align="left">
